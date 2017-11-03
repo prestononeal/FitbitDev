@@ -1,0 +1,16 @@
+<svg id="page" class="portrait-view">
+  <image id="background" href="marzipan.png" x="0" y="0" width="100%" height="100%" fill="#000000" class="background" />
+  <svg> 
+    <image href="8.png" x="66" y="180" width="42" height="67" fill="#FFFFFF" opacity=".2" class="foreground" />
+    <image href="8.png" x="120" y="180" width="42" height="67" fill="#FFFFFF" opacity=".2" class="foreground" />
+    <image href="separator.png" x="168" y="200" width="11" height="35" fill="#FFFFFF" opacity=".2" class="foreground" />
+    <image href="8.png" x="185" y="180" width="42" height="67" fill="#FFFFFF" opacity=".2" class="foreground" />
+    <image href="8.png" x="239" y="180" width="42" height="67" fill="#FFFFFF" opacity=".2" class="foreground" />
+
+    <image id="hours1" href="1.png" x="66" y="180" width="42" height="67" fill="#FFFFFF" class="foreground" />
+    <image id="hours2" href="3.png" x="120" y="180" width="42" height="67" fill="#FFFFFF" class="foreground" />
+    <image id="separator" href="separator.png" x="168" y="200" width="11" height="35" fill="#FFFFFF" class="foreground" />
+    <image id="mins1" href="3.png" x="185" y="180" width="42" height="67" fill="#FFFFFF" class="foreground" />
+    <image id="mins2" href="7.png" x="239" y="180" width="42" height="67" fill="#FFFFFF" class="foreground" />
+  </svg>
+</svg>

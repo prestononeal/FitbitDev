@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "663153db-5f54-4fb7-9c54-da021cdb01aa",
+    "appType": "clockface",
+    "appDisplayName": "Marzipan",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "Marzipan"
+      }
+    }
+  }
+}
